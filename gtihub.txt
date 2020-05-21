@@ -1,0 +1,6 @@
+ code for uploading project on github through gitbash 
+-git init
+-git add .
+-git commit -m "changes"
+-git remote origin jun github ko repository ma banauda deko link hunxa
+-git push origin master
